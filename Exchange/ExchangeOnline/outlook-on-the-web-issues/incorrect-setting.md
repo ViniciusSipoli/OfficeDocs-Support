@@ -15,7 +15,7 @@ search.appverid:
 - MET150
 appliesto:
 - Exchange Online
----
+---   
 # The time zone setting in Outlook Web App in Office 365 is set incorrectly to (UTC) Monrovia, Reykjavik
 
 ## Problem
